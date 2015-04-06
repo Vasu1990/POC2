@@ -31,3 +31,37 @@ c:\users\vasunagpal\documents\visual studio 2012\Projects\POC\POC\bin\Microsoft.
 c:\users\vasunagpal\documents\visual studio 2012\Projects\POC\POC\obj\Release\POC.csprojResolveAssemblyReference.cache
 c:\users\vasunagpal\documents\visual studio 2012\Projects\POC\POC\obj\Release\POC.dll
 c:\users\vasunagpal\documents\visual studio 2012\Projects\POC\POC\obj\Release\POC.pdb
+E:\Projects\Yepme\POC2\POC\bin\POC.dll.config
+E:\Projects\Yepme\POC2\POC\bin\POC.dll
+E:\Projects\Yepme\POC2\POC\bin\POC.pdb
+E:\Projects\Yepme\POC2\POC\bin\Antlr3.Runtime.dll
+E:\Projects\Yepme\POC2\POC\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\Yepme\POC2\POC\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.AspNet.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.Core.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OAuth.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OpenId.dll
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Projects\Yepme\POC2\POC\bin\EntityFramework.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Yepme\POC2\POC\bin\System.Web.Optimization.dll
+E:\Projects\Yepme\POC2\POC\bin\System.Web.Providers.dll
+E:\Projects\Yepme\POC2\POC\bin\WebGrease.dll
+E:\Projects\Yepme\POC2\POC\bin\EntityFramework.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.Core.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OAuth.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OpenId.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Projects\Yepme\POC2\POC\bin\DotNetOpenAuth.AspNet.xml
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+E:\Projects\Yepme\POC2\POC\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\Yepme\POC2\POC\obj\Release\POC.csprojResolveAssemblyReference.cache
+E:\Projects\Yepme\POC2\POC\obj\Release\POC.dll
+E:\Projects\Yepme\POC2\POC\obj\Release\POC.pdb
